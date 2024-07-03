@@ -9,9 +9,7 @@ This repository contains the SQL dump file for the "Build a Celestial Bodies Dat
 - [Installation](#installation)
 - [Usage](#usage)
 - [Example Queries](#example-queries)
-- [Contributing](#contributing)
 - [License](#license)
-- [Contact](#contact)
 
 ## Project Overview
 
